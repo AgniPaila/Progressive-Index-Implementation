@@ -64,27 +64,27 @@ To run a particular algorithm on a particular dataset, execute:
 
 ./run.sh [data] [algo] [nqueries] [workload] [selectivity] [update] [timelimit]
 - [data] is one of the following:
--100000000.data
--100000.data
--100.data
--tyxaia20.data
--test.data
+  -100000000.data
+  -100000.data
+  -100.data
+  -tyxaia20.data
+  -test.data
 
 - [algo] is one of the following:
--crack
--sort
--scan
--ddc
--ddr
--dd1c
--dd1r
--mdd1r
+  -crack
+  -sort
+  -scan
+  -ddc
+  -ddr
+  -dd1c
+  -dd1r
+  -mdd1r
 
 - [nqueries] is an integer denoting the number of queries to be executed.
 
 - [workload] is one of the following:
--Random
--SeqOver (Sequential)
+  -Random
+  -SeqOver (Sequential)
 
 - [selectivity] is a floating point, e.g.: 1e-2 (means 1% selectivity)
 

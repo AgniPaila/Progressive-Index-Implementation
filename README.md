@@ -64,7 +64,11 @@ To run a particular algorithm on a particular dataset, execute:
 
 ./run.sh [data] [algo] [nqueries] [workload] [selectivity] [update] [timelimit]
 - [data] is one of the following:
-100000000.data
+-100000000.data
+-100000.data
+-100.data
+-tyxaia20.data
+-test.data
 
 - [algo] is one of the following:
 -crack

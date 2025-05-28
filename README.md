@@ -1,4 +1,4 @@
-# Thesis: Progressive Index Implementation using Database Cracking Techniques
+# Thesis: Progressive Index Implementation using Database Cracking Techniques 
 
 This repository contains the implementation and results of my undergraduate thesis on **Database Cracking** and **Stochastic Database Cracking**, conducted at the Department of Computer Science & Engineering, University of Ioannina.
 
